@@ -1,3 +1,4 @@
+# js file and all functionality will be added as soon as possible for me
 # pokpro
 This is just a website for fun
 I am going to release the code soon as possible 
