@@ -1,5 +1,6 @@
 # pokpro
 This is just a website for fun
+I am going to release the code soon as possible 
 # use 
 You can use this website as a template for your project 
 And then improve it 
